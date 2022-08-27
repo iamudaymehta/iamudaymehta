@@ -17,7 +17,7 @@ I am a Tech Enthusiast with a deep interest in Problem Solving. I love to tackle
 [![Uday Mehta's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamudaymehta&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamudaymehta&theme=solarized_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamudaymehta&theme=solarized_dark" />
 <br>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamudaymehta&theme=solarized_dark"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamudaymehta&theme=solarized_dark"/>
