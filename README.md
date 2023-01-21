@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/iamudaymehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iamudaymehta" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/iamudaymehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamudaymehta" height="30" width="40" /></a>
-<a href="https://leetcode.com/Udaymehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Udaymehta" height="30" width="40" /></a>
+<a href="https://leetcode.com/iamudaymehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamudaymehta" height="30" width="40" /></a>
 <a href="https://twitter.com/um_iamudaymehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="um_iamudaymehta" height="30" width="40" /></a>
 </p>
 </div>
